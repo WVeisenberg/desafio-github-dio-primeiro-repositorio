@@ -1,0 +1,18 @@
+Git e Github
+
+Porque o Git é tão utilizado e confiável? 
+
+O Git utiliza um algoritmo de encriptação chamado Secure Hash Algorithm SHA1, que foi projetado pela NSA, agência nacional de segurança dos EUA. Essa encriptação gera um conjunto de 40 caracteres únicos para cada arquivo.
+
+Clonando um repositório
+
+No git bash rodar o comando: git clone endereço-do-repositorio
+
+Enviando do seu repositório local para o remoto 
+
+No Git bash rodar os comandos:
+
+git add .
+git commit -m "comentário do que esta sendo alterado"
+git push origin main 
+
